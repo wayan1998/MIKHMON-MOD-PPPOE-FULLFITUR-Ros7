@@ -2,13 +2,14 @@
 ---
 
 Mikhmon-PPPoE-Ros.7
-📌 Deskripsi
+
+Deskripsi
 
 **Mikhmon-PPPoE-Ros.7** adalah aplikasi berbasis web yang dikembangkan untuk memudahkan manajemen user PPPoE pada Mikrotik RouterOS versi 7.x. Dengan antarmuka sederhana dan fitur yang lengkap, aplikasi ini membantu admin jaringan dalam mengelola, monitoring, dan mengotomatisasi tugas-tugas terkait PPPoE user secara efisien.
 
 ---
 
-✨ Fitur Utama
+Fitur Utama
 
 - **Manajemen User PPPoE**  
   Tambah, edit, hapus, dan monitoring user PPPoE dengan mudah.
@@ -18,9 +19,6 @@ Mikhmon-PPPoE-Ros.7
 
 - **Otomatisasi Voucher**  
   Generate dan cetak voucher internet dengan cepat.
-
-- **Backup & Restore**  
-  Fitur backup/restore konfigurasi user PPPoE.
 
 - **Keamanan**  
   Akses login untuk admin, serta log aktivitas.
