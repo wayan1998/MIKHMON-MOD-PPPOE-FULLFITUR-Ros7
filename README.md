@@ -31,8 +31,9 @@ Mikhmon-PPPoE-Ros.7
  Screenshot
 
 > 
-![Screenshot](https://raw.githubusercontent.com/heruhendri/Mikhmon-PPPoE-Ros.7/refs/heads/master/ss.png)
+![Screenshot](https://github.com/wayan1998/MIKHMON-MOD-PPPOE-FULLFITUR-Ros7/blob/main/ss1.png)
 
+![Screenshot](https://github.com/wayan1998/MIKHMON-MOD-PPPOE-FULLFITUR-Ros7/blob/main/ss2.png)
 ---
 
 Lisensi
