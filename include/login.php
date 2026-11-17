@@ -87,7 +87,7 @@ body{
     <div class="mk-brand">
       <img src="img/favicon.png" alt="MIKHMON Logo">
       <h1>MIKHMON</h1>
-      <p>Mod by Yudha Saputra</p>
+      <p>Mod DWINET.ID</p>
     </div>
 
     <h3 class="mk-title"><?= $_please_login ?></h3>
@@ -109,7 +109,7 @@ body{
     </form>
 
     <div class="mk-foot">
-      <b>Mikhmon</b> mod by <b>Yudha Saputra</b>
+      <b>Mikhmon</b> mod by <b>DWINET.ID</b>
     </div>
   </div>
 </div>
